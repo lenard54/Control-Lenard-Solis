@@ -1,14 +1,38 @@
 body {
     background-image: url(ecosistema.png);
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: normal;
     font-weight: bold;
     font-style: oblique;
-    text-align: center;
+    text-align: right;
 }
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: small;
     line-height: normal;
     text-align: center;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 700;
+    text-align: center;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+}
+.div1 {
+    margin-top: 1cm ;
+    margin-bottom: 1cm ;
+    margin-left: 10cm ;
+    background-color: rgb(65, 230, 230);
+    border: 5px outset rgb(20, 105, 105);
+    color: black;
+}
+.div2 {
+    background-image: url(FondoMaino.jpg);
+    padding-bottom: 1.30cm;
 }
