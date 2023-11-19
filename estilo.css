@@ -1,0 +1,14 @@
+body {
+    background-image: url(ecosistema.png);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    line-height: normal;
+    text-align: center;
+}
